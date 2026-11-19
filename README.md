@@ -1,3 +1,3 @@
 # Grupo2-Mon-Santucho-Bit-cora-4to4ta-2026
-Hoy con mi grupo empezamos a hacer la primera parte del proyecto.
-Yo me encargué de la parte de estimación de recursos necesarios y estudio de viabilidad 
+(Bitacora tardía)
+Con mi grupo, fuimos terminando de conectar y terminar lo que sería la parte física del Arduino. Ese dia yo y Juan empezamos a hacer la maqueta donde estaría la parte física del Arduino
